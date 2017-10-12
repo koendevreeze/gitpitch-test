@@ -4,7 +4,7 @@
 - iPad naam
 - Startpagina SFI instellen
 - Cert installeren
-
+---
 # Samen met collega
 - Pincode aanpassen? (YYMM)
 - Apple ID aanmaken (GSM!) ww SFI gebruiken AUB
@@ -14,7 +14,7 @@
 - Google Account mail toevoegen
 - Google Account Drive toevoegen
 
-
+---
 
 TE BEKIJKEN (lijstje gecopypaste):
 -> Screenshots kan je maken met HOME+POWER
@@ -25,6 +25,7 @@ TE BEKIJKEN (lijstje gecopypaste):
 -> App iconen verplaatsen/groeperen/apps wissen
 -> Balk onderaan (swipe+ 2x home) (wifi aan uit, volume, timer, )
 -> Meldingen van locatie gebruiken, Pushberichten (+wat zijn dat)
+---
 -> Mail instellen?
 -> Mail gebruiken om foto's te zenden?
 -> Mail handtekening wissen?
